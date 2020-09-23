@@ -1,0 +1,13 @@
+D:\BT\zoo-management-system-master\zoo-management-system-master\bin\Debug\netcoreapp3.1\zoo.exe
+D:\BT\zoo-management-system-master\zoo-management-system-master\bin\Debug\netcoreapp3.1\zoo.deps.json
+D:\BT\zoo-management-system-master\zoo-management-system-master\bin\Debug\netcoreapp3.1\zoo.runtimeconfig.json
+D:\BT\zoo-management-system-master\zoo-management-system-master\bin\Debug\netcoreapp3.1\zoo.runtimeconfig.dev.json
+D:\BT\zoo-management-system-master\zoo-management-system-master\bin\Debug\netcoreapp3.1\zoo.dll
+D:\BT\zoo-management-system-master\zoo-management-system-master\bin\Debug\netcoreapp3.1\zoo.pdb
+D:\BT\zoo-management-system-master\zoo-management-system-master\obj\Debug\netcoreapp3.1\zoo.csprojAssemblyReference.cache
+D:\BT\zoo-management-system-master\zoo-management-system-master\obj\Debug\netcoreapp3.1\zoo.AssemblyInfoInputs.cache
+D:\BT\zoo-management-system-master\zoo-management-system-master\obj\Debug\netcoreapp3.1\zoo.AssemblyInfo.cs
+D:\BT\zoo-management-system-master\zoo-management-system-master\obj\Debug\netcoreapp3.1\zoo.csproj.CoreCompileInputs.cache
+D:\BT\zoo-management-system-master\zoo-management-system-master\obj\Debug\netcoreapp3.1\zoo.dll
+D:\BT\zoo-management-system-master\zoo-management-system-master\obj\Debug\netcoreapp3.1\zoo.pdb
+D:\BT\zoo-management-system-master\zoo-management-system-master\obj\Debug\netcoreapp3.1\zoo.genruntimeconfig.cache
