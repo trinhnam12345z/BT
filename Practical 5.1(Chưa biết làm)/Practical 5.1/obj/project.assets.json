@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Practical 5.1\\Practical 5.1\\Practical 5.1.csproj",
+      "projectUniqueName": "D:\\BT\\Practical 5.1(Chưa biết làm)\\Practical 5.1\\Practical 5.1.csproj",
       "projectName": "Practical 5.1",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\Practical 5.1\\Practical 5.1\\Practical 5.1.csproj",
+      "projectPath": "D:\\BT\\Practical 5.1(Chưa biết làm)\\Practical 5.1\\Practical 5.1.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\Practical 5.1\\Practical 5.1\\obj\\",
+      "outputPath": "D:\\BT\\Practical 5.1(Chưa biết làm)\\Practical 5.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

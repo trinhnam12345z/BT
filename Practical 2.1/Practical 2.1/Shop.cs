@@ -87,7 +87,7 @@ namespace Practical_2._1
             }
             if (search == false)
             {
-                Console.WriteLine("Not Found!");
+                Console.WriteLine("No matching results !");
             }
         }
     }

@@ -7,14 +7,14 @@ namespace Practical_2._1
         static void Main(string[] args)
         {
             int choice;
-            Shop shop = new Shop();
-            Console.WriteLine("1. Add new Product");
-            Console.WriteLine("2. Remove Product");
-            Console.WriteLine("3. Iterate product list");
-            Console.WriteLine("4. Search product");
-            Console.WriteLine("5. Exit");
+            Shop shop = new Shop();          
             while (true)
             {
+                Console.WriteLine("1. Add new Product");
+                Console.WriteLine("2. Remove Product");
+                Console.WriteLine("3. Iterate product list");
+                Console.WriteLine("4. Search product");
+                Console.WriteLine("5. Exit");
                 Console.Write("Please choose an item: ");
                 choice = int.Parse(Console.ReadLine());
                 switch (choice)

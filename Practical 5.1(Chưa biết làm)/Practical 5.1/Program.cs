@@ -10,9 +10,10 @@ namespace Practical_5._1
             ReadNewsDelegate testMethod = new ReadNewsDelegate(TestMethod);
 
         }
-        static void TestMethod(string news)
+        public static void TestMethod(string news)
         {
 
         }
     }
+
 }

@@ -1,0 +1,13 @@
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\bin\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.exe
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\bin\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.deps.json
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\bin\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.runtimeconfig.json
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\bin\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.runtimeconfig.dev.json
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\bin\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.dll
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\bin\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.pdb
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\obj\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.csprojAssemblyReference.cache
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\obj\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.AssemblyInfoInputs.cache
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\obj\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.AssemblyInfo.cs
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\obj\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.csproj.CoreCompileInputs.cache
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\obj\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.dll
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\obj\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.pdb
+D:\BT\ArrayList-Them-Sua-Xoa\ArrayList-Them-Sua-Xoa\obj\Debug\netcoreapp3.1\ArrayList-Them-Sua-Xoa.genruntimeconfig.cache
