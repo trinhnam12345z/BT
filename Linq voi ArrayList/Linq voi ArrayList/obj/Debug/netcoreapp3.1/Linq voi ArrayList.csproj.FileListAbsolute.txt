@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\bin\Debug\netcoreapp3.1\Linq voi ArrayList.exe
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\bin\Debug\netcoreapp3.1\Linq voi ArrayList.deps.json
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\bin\Debug\netcoreapp3.1\Linq voi ArrayList.runtimeconfig.json
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\bin\Debug\netcoreapp3.1\Linq voi ArrayList.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\bin\Debug\netcoreapp3.1\Linq voi ArrayList.dll
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\bin\Debug\netcoreapp3.1\Linq voi ArrayList.pdb
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\obj\Debug\netcoreapp3.1\Linq voi ArrayList.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\obj\Debug\netcoreapp3.1\Linq voi ArrayList.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\obj\Debug\netcoreapp3.1\Linq voi ArrayList.AssemblyInfo.cs
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\obj\Debug\netcoreapp3.1\Linq voi ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\obj\Debug\netcoreapp3.1\Linq voi ArrayList.dll
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\obj\Debug\netcoreapp3.1\Linq voi ArrayList.pdb
+C:\Users\PC\source\repos\Linq voi ArrayList\Linq voi ArrayList\obj\Debug\netcoreapp3.1\Linq voi ArrayList.genruntimeconfig.cache

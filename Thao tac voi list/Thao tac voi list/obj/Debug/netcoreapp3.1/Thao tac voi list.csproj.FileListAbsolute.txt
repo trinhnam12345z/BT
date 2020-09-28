@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\bin\Debug\netcoreapp3.1\Thao tac voi list.exe
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\bin\Debug\netcoreapp3.1\Thao tac voi list.deps.json
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\bin\Debug\netcoreapp3.1\Thao tac voi list.runtimeconfig.json
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\bin\Debug\netcoreapp3.1\Thao tac voi list.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\bin\Debug\netcoreapp3.1\Thao tac voi list.dll
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\bin\Debug\netcoreapp3.1\Thao tac voi list.pdb
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\obj\Debug\netcoreapp3.1\Thao tac voi list.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\obj\Debug\netcoreapp3.1\Thao tac voi list.AssemblyInfo.cs
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\obj\Debug\netcoreapp3.1\Thao tac voi list.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\obj\Debug\netcoreapp3.1\Thao tac voi list.dll
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\obj\Debug\netcoreapp3.1\Thao tac voi list.pdb
+C:\Users\PC\source\repos\Thao tac voi list\Thao tac voi list\obj\Debug\netcoreapp3.1\Thao tac voi list.genruntimeconfig.cache

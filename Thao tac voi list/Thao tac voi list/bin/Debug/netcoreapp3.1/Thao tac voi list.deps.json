@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Thao tac voi list/1.0.0": {
+        "runtime": {
+          "Thao tac voi list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thao tac voi list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
