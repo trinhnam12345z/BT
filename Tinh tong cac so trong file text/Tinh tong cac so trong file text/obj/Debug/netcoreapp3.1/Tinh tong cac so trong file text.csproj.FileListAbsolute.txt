@@ -1,0 +1,13 @@
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\bin\Debug\netcoreapp3.1\Tinh tong cac so trong file text.exe
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\bin\Debug\netcoreapp3.1\Tinh tong cac so trong file text.deps.json
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\bin\Debug\netcoreapp3.1\Tinh tong cac so trong file text.runtimeconfig.json
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\bin\Debug\netcoreapp3.1\Tinh tong cac so trong file text.runtimeconfig.dev.json
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\bin\Debug\netcoreapp3.1\Tinh tong cac so trong file text.dll
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\bin\Debug\netcoreapp3.1\Tinh tong cac so trong file text.pdb
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\obj\Debug\netcoreapp3.1\Tinh tong cac so trong file text.csprojAssemblyReference.cache
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\obj\Debug\netcoreapp3.1\Tinh tong cac so trong file text.AssemblyInfoInputs.cache
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\obj\Debug\netcoreapp3.1\Tinh tong cac so trong file text.AssemblyInfo.cs
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\obj\Debug\netcoreapp3.1\Tinh tong cac so trong file text.csproj.CoreCompileInputs.cache
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\obj\Debug\netcoreapp3.1\Tinh tong cac so trong file text.dll
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\obj\Debug\netcoreapp3.1\Tinh tong cac so trong file text.pdb
+D:\BT\Tinh tong cac so trong file text\Tinh tong cac so trong file text\obj\Debug\netcoreapp3.1\Tinh tong cac so trong file text.genruntimeconfig.cache

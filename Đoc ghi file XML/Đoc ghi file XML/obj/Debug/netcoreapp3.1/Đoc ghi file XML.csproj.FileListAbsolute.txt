@@ -1,0 +1,12 @@
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\obj\Debug\netcoreapp3.1\Đoc ghi file XML.AssemblyInfoInputs.cache
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\obj\Debug\netcoreapp3.1\Đoc ghi file XML.AssemblyInfo.cs
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\obj\Debug\netcoreapp3.1\Đoc ghi file XML.csproj.CoreCompileInputs.cache
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\bin\Debug\netcoreapp3.1\Đoc ghi file XML.exe
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\bin\Debug\netcoreapp3.1\Đoc ghi file XML.deps.json
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\bin\Debug\netcoreapp3.1\Đoc ghi file XML.runtimeconfig.json
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\bin\Debug\netcoreapp3.1\Đoc ghi file XML.runtimeconfig.dev.json
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\bin\Debug\netcoreapp3.1\Đoc ghi file XML.dll
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\bin\Debug\netcoreapp3.1\Đoc ghi file XML.pdb
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\obj\Debug\netcoreapp3.1\Đoc ghi file XML.dll
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\obj\Debug\netcoreapp3.1\Đoc ghi file XML.pdb
+D:\BT\Đoc ghi file XML\Đoc ghi file XML\obj\Debug\netcoreapp3.1\Đoc ghi file XML.genruntimeconfig.cache
