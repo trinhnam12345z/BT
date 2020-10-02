@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Thi cuoi mon/1.0.0": {
+        "runtime": {
+          "Thi cuoi mon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thi cuoi mon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\bin\Debug\netcoreapp3.1\Thi cuoi mon.exe
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\bin\Debug\netcoreapp3.1\Thi cuoi mon.deps.json
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\bin\Debug\netcoreapp3.1\Thi cuoi mon.runtimeconfig.json
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\bin\Debug\netcoreapp3.1\Thi cuoi mon.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\bin\Debug\netcoreapp3.1\Thi cuoi mon.dll
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\bin\Debug\netcoreapp3.1\Thi cuoi mon.pdb
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\obj\Debug\netcoreapp3.1\Thi cuoi mon.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\obj\Debug\netcoreapp3.1\Thi cuoi mon.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\obj\Debug\netcoreapp3.1\Thi cuoi mon.AssemblyInfo.cs
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\obj\Debug\netcoreapp3.1\Thi cuoi mon.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\obj\Debug\netcoreapp3.1\Thi cuoi mon.dll
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\obj\Debug\netcoreapp3.1\Thi cuoi mon.pdb
+C:\Users\PC\source\repos\Thi cuoi mon\Thi cuoi mon\obj\Debug\netcoreapp3.1\Thi cuoi mon.genruntimeconfig.cache
