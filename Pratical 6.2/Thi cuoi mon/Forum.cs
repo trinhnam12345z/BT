@@ -65,45 +65,7 @@ namespace Thi_cuoi_mon
             MySL.Add(count, post);
             count++;
         }
-        public void UpdatePost()
-        {
-            bool search = false;
-            Console.Write("Enter the ID of the Post you want to update : ");
-            int id = int.Parse(Console.ReadLine());
-            foreach (Post item in MySL.Values)
-            {
-                if (id.Equals(item.ID))
-                {
-                    search = true;
-                    MySL.Remove(id);
-                    
-                    break;
-                }
-            }
-            if (search == true)
-                Console.WriteLine("Remove Sucessful!");
-            else
-                Console.WriteLine("Not Found!");
-        }
-        public void RemovePost()
-        {
-            bool search = false;
-            Console.Write("Enter the ID of the Post you want to delete : ");
-            int id = int.Parse(Console.ReadLine());
-            foreach (Post item in MySL.Values)
-            {
-                if (id.Equals(item.ID))
-                {
-                    search = true;
-                    MySL.Remove(id);
-                    break;
-                }
-            }
-            if (search == true)
-                Console.WriteLine("Remove Sucessful!");
-            else
-                Console.WriteLine("Not Found!");
-        }
+        
         public void ShowPost()
         {
             foreach (Post item in MySL.Values)
